@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.contact {
+  border: 2px solid #060606;
+  text-align: center;
+  font-size: 28px;
+  background: #dec112;
+  color: #000000e1;
+  width: 955px;
+  margin-top: 15px;
+  border-radius: 5px;
+  margin-left: 290px;
+  font-family: cursive;
+  height: 135px;
+}
+
+.contact:hover {
+  background-color: #bd9d0f;
+  box-shadow: 8px 8px 2px 1px rgb(55, 55, 24);
+}
+
+.search {
+  text-align: center;
+  margin-left: 20px;
+  border: 2px solid #696724;
+  width: 947px;
+  height: 50px;
+  background: #42393969;
+  color: aliceblue;
+}
+.search:hover{
+  background-color: #000000e1;
+}
+
+body {
+  background: #000000;
+  text-align: center;
+}
+
+h2 {
+  color: #696724;
+  font-family: cursive;
+}
